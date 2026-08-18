@@ -9,7 +9,7 @@ $ daily-driver
 > Fedora Atomic (Silverblue) - Main Workstation
 
 $ focus-on
-> C, Shell (bash), Python, Lua
+> C, Shell (bash), Python
 > Hobby Projects
 > Learning Hardware, Software, VM, Containers and Tools
 
