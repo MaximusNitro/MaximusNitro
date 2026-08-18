@@ -9,9 +9,9 @@ $ daily-driver
 > Fedora Atomic (Silverblue) - Main Workstation
 
 $ focus-on
-> Go, Python, Shell (Bash)
+> C, Shell (bash), Python, Lua
 > Hobby Projects
-> Learning System & DevOps
+> Learning Hardware, Software, VM, Containers and Tools
 
 $ about-me
 > I explore many linux distributions and believe everything should be replaceable and scriptable.
