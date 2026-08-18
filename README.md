@@ -3,13 +3,13 @@
 ```
 $ whoami
 > Maksim Teo Cuturic - 18 - Immutable Linux User.
-> NixOS User, Atomic & Declarative System Enjoyer.
+> Fedora Silverblue User, Atomic System Enjoyer.
 
 $ daily-driver
-> NixOS - Main Workstation
+> Fedora Atomic (Silverblue) - Main Workstation
 
 $ focus-on
-> Go, Python, Shell (Bash) and Nix
+> Go, Python, Shell (Bash)
 > Hobby Projects
 > Learning System & DevOps
 
