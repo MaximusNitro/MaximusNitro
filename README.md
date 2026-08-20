@@ -20,7 +20,7 @@ $ about-me
 > I believe in rebuilding them cleanly and transparently.
 
 $ philosophy
-> I don't follow trends, there's no "perfect setup".
-> I care about setups, that i see "useful" of modern computing and without losing a single piece of my workflow.
+> don't follow trends, there's no "perfect setup".
+> care about setups, that i see "useful" of modern computing and without losing a single piece of my workflow.
 > If your system breaks, rebuild it. If it can't be rebuilt, replace it.
 ```
