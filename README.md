@@ -13,6 +13,10 @@
   
   <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/cppicon.png" alt="Profile Banner" width="50" />
   
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/llvm.png" alt="Profile Banner" width="60" />
+  
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/tux.png" alt="Profile Banner" width="50" />
+  
   <img src="https://github.com/MaksimTC-Dev/ProgrammingLanguageIcons/blob/main/icons/bash.png" alt="Profile Banner" width="50" />
 
   <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/nix.png" alt="Profile Banner" width="60" />
