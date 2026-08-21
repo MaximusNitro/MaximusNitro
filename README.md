@@ -1,26 +1,36 @@
 ## Hello, Everyone :D
 
-```
-$ whoami
-> Maksim Teo Cuturic - 18 - Immutable Linux User.
-> NixOS User, Atomic & Declarative System Enjoyer.
+# Maksim Teo Cuturic - 18 - Immutable Linux User.
 
-$ daily-driver
-> NixOS - Main Workstation
+**Daily-Driver**
 
-$ focus-on
-> C, Shell (bash), Python
-> Hobby Projects
-> Learning Hardware, Software, VM, Containers and Tools
+- NixOS - Main Workstation
 
-$ about-me
-> I explore many linux distributions and believe everything should be replaceable and scriptable.
-> I prefer POSIX because it is a universal backbone of modern computing.
-> I don't believe in mutable OS anymore, I'm done babysitting messy system.
-> I believe in rebuilding them cleanly and transparently.
+**Focus on**
 
-$ philosophy
-> don't follow trends, there's no "perfect setup".
-> care about setups, that i see "useful" of modern computing and without losing a single piece of my workflow.
-> If your system breaks, rebuild it. If it can't be rebuilt, replace it.
-```
+<p align="center">  
+  <img src="https://github.com/MaksimTC-Dev/ProgrammingLanguageIcons/blob/main/icons/cicon.png" alt="Profile Banner" width="50" />
+  
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/cppicon.png" alt="Profile Banner" width="50" />
+  
+  <img src="https://github.com/MaksimTC-Dev/ProgrammingLanguageIcons/blob/main/icons/bash.png" alt="Profile Banner" width="50" />
+
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/nix.png" alt="Profile Banner" width="60" />
+  
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/python.png" alt="Profile Banner" width="50" />
+
+</p>
+
+**About Me**
+
+I explore many linux distributions and believe everything should be replaceable and scriptable.
+
+I prefer POSIX because it is a universal backbone of modern computing.
+
+I don't believe in mutable OS anymore, I'm done babysitting messy system.
+
+I believe in rebuilding them cleanly and transparently.
+
+**Message**
+
+If your system breaks, rebuild it. If it can't be rebuilt, replace it.
