@@ -9,7 +9,7 @@
 **Focus on**
 
 <p align="center">  
-  <img src="https://github.com/MaksimTC-Dev/ProgrammingLanguageIcons/blob/main/icons/cicon.png" alt="Profile Banner" width="50" />
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/python.png" alt="Profile Banner" width="50" />
   
   <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/cppicon.png" alt="Profile Banner" width="50" />
   
@@ -19,9 +19,9 @@
   
   <img src="https://github.com/MaksimTC-Dev/ProgrammingLanguageIcons/blob/main/icons/bash.png" alt="Profile Banner" width="50" />
 
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/nix.png" alt="Profile Banner" width="60" />
-  
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/python.png" alt="Profile Banner" width="50" />
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/nix.png" alt="Profile Banner" width="60" />  
+
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/java.png" alt="Profile Banner" width="60" />
 
 </p>
 
