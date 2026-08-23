@@ -15,7 +15,7 @@
   <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/css.png" alt="Profile Banner" width="50" />
   <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/html5.png" alt="Profile Banner" width="50" />
   <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/lua.png" alt="Profile Banner" width="50" />
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/java.png" alt="Profile Banner" width="50" />
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/go2.png" alt="Profile Banner" width="50" />
   <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/tux.png" alt="Profile Banner" width="40" />
   <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/bash.png" alt="Profile Banner" width="45" />
   <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/postgreSQL.png" alt="Profile Banner" width="50" />
