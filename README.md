@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/cicon.png" alt="Profile Banner" width="50" /> 
   <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/bash.png" alt="Profile Banner" width="50" /> 
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/gcc.png" alt="Profile Banner" width="50" /> 
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/python.png" alt="Profile Banner" width="50" /> 
   <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/llvm.png" alt="Profile Banner" width="60" /> 
   <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/tux.png" alt="Profile Banner" width="50" /> 
 
