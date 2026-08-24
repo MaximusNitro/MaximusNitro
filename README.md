@@ -10,22 +10,18 @@
 
 <p align="center">
   <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/cicon.png" alt="Profile Banner" width="50" /> 
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/python.png" alt="Profile Banner" width="50" /> 
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/lua.png" alt="Profile Banner" width="50" />
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/go2.png" alt="Profile Banner" width="50" />
-    <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/rust2.png" alt="Profile Banner" width="50" />
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/tux.png" alt="Profile Banner" width="40" />
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/bash.png" alt="Profile Banner" width="45" />
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/postgreSQL.png" alt="Profile Banner" width="50" />
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/git.png" alt="Profile Banner" width="50" />
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/bash.png" alt="Profile Banner" width="50" /> 
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/gcc.png" alt="Profile Banner" width="50" /> 
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/llvm.png" alt="Profile Banner" width="60" /> 
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/tux.png" alt="Profile Banner" width="50" /> 
 
 </p>
 
 **About Me**
 
-I like and prefer POSIX for any development, like frontend, backend, database and etc.
+I like and prefer POSIX for my projects.
 
-I believe in building them cleanly and transparently
+I believe in building them cleanly and transparently.
 
 My favorite programming language is C, because it is interesting to me.
 
