@@ -9,15 +9,12 @@
 **Focus on these technology**
 
 <p align="center">
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/cicon.png" alt="Profile Banner" width="55" /> 
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/bash.png" alt="Profile Banner" width="50" /> 
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/python.png" alt="Profile Banner" width="55" /> 
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/llvm.png" alt="Profile Banner" width="60" /> 
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/tux.png" alt="Profile Banner" width="50" />   
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/tux.png" alt="Profile Banner" width="50" /> 
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/bash.png" alt="Profile Banner" width="55" />  
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/python.png" alt="Profile Banner" width="60" />
   <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/git.png" alt="Profile Banner" width="60" /> 
-  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/vim.png" alt="Profile Banner" width="60" /> 
-
-
+  <img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/neovim.png" alt="Profile Banner" width="50" /> 
+  
 </p>
 
 **About Me**
@@ -25,8 +22,6 @@
 I like and prefer POSIX for my projects.
 
 I believe in building them cleanly and transparently.
-
-My favorite programming language is C, because it is interesting to me.
 
 **Message**
 
