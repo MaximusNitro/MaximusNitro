@@ -2,7 +2,7 @@
 
 **Daily-Driver**
 
-<img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/archlinux.png" alt="Profile Banner" width="25" /> Arch Linux (KDE Plasma)
+<img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/ubuntu.png" alt="Profile Banner" width="15" /> Ubuntu Desktop (26.04 LTS)
 
 **About Me**
 
