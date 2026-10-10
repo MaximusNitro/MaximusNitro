@@ -1,9 +1,5 @@
-## Hello Everyone, I'm Maksim Teo
+## Hello Everyone I'm Maximus
 
-**Daily-Driver**
+**Daily-Driver OS**
 
-<img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/archlinux.png" alt="Profile Banner" width="15" /> Arch Linux
-
-**About Me**
-
-I like and prefer POSIX for my projects. (For Linux, macOS, BSD and Others.)
+<img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/nix.png" alt="Profile Banner" width="20" /> NixOS
