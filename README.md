@@ -2,4 +2,4 @@
 
 **Daily-Driver OS**
 
-<img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/nix.png" alt="Profile Banner" width="20" /> NixOS
+<img src="https://github.com/MaksimTC-Dev/Icons/blob/Icons/icons/debian.png" alt="Profile Banner" width="15" /> Debian (Testing)
